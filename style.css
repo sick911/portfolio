@@ -176,6 +176,9 @@ a {
   .navbar-items {
     display: none;
   }
+  .main-section {
+    margin: 1.6rem;
+  }
   .skills-items {
     display: block;
     font-size: 3rem;
