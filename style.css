@@ -158,6 +158,9 @@ a {
     font-size: 0.5rem;
     text-align: center;
   }
+  .navbar {
+    position: relative;
+  }
   .main-section {
     display: block;
     padding: 10px;
@@ -166,6 +169,9 @@ a {
   .profile-img {
     margin-top: 1rem;
     width: 250px;
+  }
+  .navbar {
+    position: relative;
   }
   .navbar-items {
     display: none;
@@ -183,11 +189,11 @@ a {
     margin-top: 8rem;
   }
   .project__1 {
-    width: 400px;
+    width: 350px;
   }
   .overlay {
     font-size: 1em;
-    width: 370px;
+    width: 321px;
   }
   #education > div {
     font-size: 2rem;
