@@ -44,7 +44,7 @@ li > a {
 }
 .main-section {
   padding: 90px;
-  margin-top: 150px;
+  margin-top: 80px;
   display: flex;
   justify-content: space-between;
   margin-bottom: 10%;
@@ -58,7 +58,7 @@ main-section > img {
 }
 .skills-items {
   display: flex;
-  margin: 9rem auto 20rem auto;
+  margin: 5rem auto 10rem auto;
   font-size: 2rem;
 }
 
