@@ -11,6 +11,7 @@
   box-sizing: border-box;
   margin: auto 10%;
   color: black;
+  scroll-behavior: smooth;
 }
 .portfolio {
   text-decoration: none;
