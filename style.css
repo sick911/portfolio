@@ -156,6 +156,10 @@ a {
   font-weight: 500;
   border-top: 2px solid black;
 }
+.social > div :hover,
+.media > *:hover {
+  border-bottom: 3px solid black;
+}
 
 .overlay > a {
   color: black;
