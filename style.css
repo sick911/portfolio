@@ -50,8 +50,9 @@ li > a {
   margin-bottom: 10%;
 }
 #resume {
-  border: 2px solid black;
   border-radius: 0.7rem;
+  font-size: 1.4rem;
+  padding: 0 0.5rem;
 }
 #resume:hover {
   background-color: grey;
